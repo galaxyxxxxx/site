@@ -14,9 +14,13 @@
         "vite-plugin-compression": "^0.3.5"
     },
     "devDependencies": {
+        "@tailwindcss/postcss7-compat": "^2.2.17",
         "@types/react": "^17.0.0",
         "@types/react-dom": "^17.0.0",
         "@vitejs/plugin-react": "^1.0.7",
+        "autoprefixer": "^9",
+        "postcss": "^7",
+        "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
         "typescript": "^4.3.2",
         "vite": "^2.6.4"
     }
